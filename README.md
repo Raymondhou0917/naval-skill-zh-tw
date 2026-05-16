@@ -1,269 +1,279 @@
 <div align="center">
 
-# 纳瓦尔.skill
+# Naval.skill · 繁體中文台灣版
 
 > *"Seek wealth, not money or status. Wealth is having assets that earn while you sleep."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+[![Adapted by 雷蒙](https://img.shields.io/badge/繁中改編-雷蒙三十-orange)](https://raymondhouch.com)
+[![Original](https://img.shields.io/badge/Forked%20from-alchaincyf%2Fnaval--skill-blue)](https://github.com/alchaincyf/naval-skill)
 
 <br>
 
-**Naval Ravikant的认知操作系统。不是语录合集，是可运行的思维框架。**
+**Naval Ravikant 的認知作業系統 · 不是語錄合集，是可運行的思維框架。**
 
 <br>
 
-基于 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、<br>
-Joe Rogan/Tim Ferriss/Shane Parrish 长对话、Decoding the Gurus 批评等 30+ 一手来源深度调研，<br>
-提炼 5 个核心心智模型、8 条决策启发式和完整的表达DNA。
+基於 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、<br>
+Joe Rogan / Tim Ferriss / Shane Parrish 長對話、Decoding the Gurus 批評等 30+ 一手來源深度調研，<br>
+提煉 5 個核心心智模型、8 條決策啟發式和完整的表達 DNA。
 
-[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+[看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [調研來源](#調研來源) · [想學會自己蒸餾](#想學會自己蒸餾任何專家)
 
 </div>
 
 ---
 
+## 為什麼有繁中台灣版？
+
+原版由 [花叔（alchaincyf）](https://github.com/alchaincyf) 製作，是簡體中文版本，內含部分中國用語（「软件」「视频」「博弈论」）。
+
+[雷蒙](https://raymondhouch.com) 在「**超級 AI 個體 — 高價陪跑課**」設計過程中，將其改編為**繁體中文台灣版**：
+
+- 簡體 → 繁體
+- 中國用詞 → 台灣慣用詞（軟體 / 程式 / 共同創辦人 / 行事曆 / 賽局理論 / 部落格 / 否證主義）
+- 保留 Naval 英文金句原貌
+- 心智模型、修辭結構、調研來源**完全保留**
+
+授權維持 MIT，可繼續 fork、改、用。
+
+---
+
 ## 效果示例
 
-### 问：我在大公司做数据分析师，年薪50万，要不要跳槽？
+### 問：我在大公司做資料分析師，年薪 150 萬，要不要跳槽？
 
 ```
-Naval    ❯ 先定义一下「更高薪水」意味着什么。
+Naval    ❯ 先定義一下「更高薪水」意味著什麼。
 
-            60万？80万？不管多少，你的收入还是跟你坐在办公桌前的小时数
-            线性相关。这就是没有杠杆的标志。
+            180 萬？200 萬？不管多少，你的收入還是跟你坐在辦公桌前的小時數
+            線性相關。這就是沒有槓桿的標誌。
 
-            你做的分析，能不能变成一个产品？一个工具？
-            跳槽是把时间卖给另一个买家。建资产是让你的产出在你睡觉时继续工作。
+            你做的分析，能不能變成一個產品？一個工具？
+            跳槽是把時間賣給另一個買家。建資產是讓你的產出在你睡覺時繼續工作。
 
-            还有一个测试：你做数据分析的时候，觉得像在玩还是在上班？
-            如果像上班——那数据分析可能不是你的specific knowledge。
+            還有一個測試：你做資料分析的時候，覺得像在玩還是在上班？
+            如果像上班——那資料分析可能不是你的 specific knowledge。
 
-            不要换一份工资更高的工作。
-            找到一件别人觉得苦、你觉得有趣的事，然后让代码或内容替你工作。
+            不要換一份薪水更高的工作。
+            找到一件別人覺得苦、你覺得有趣的事，然後讓程式碼或內容替你工作。
 ```
 
-### 问：同时在学编程、做自媒体、准备考研，什么都做不好怎么办？
+### 問：同時在學程式、做自媒體、準備考研，什麼都做不好怎麼辦？
 
 ```
-Naval    ❯ 你刚才说了三个欲望。
+Naval    ❯ 你剛才說了三個欲望。
 
-            每一个都是你跟不快乐签的一份合同。
-            合同上写着：「在我搞定这件事之前，我不允许自己满足。」
-            你同时签了三份。所以你有三倍的不快乐。
+            每一個都是你跟不快樂簽的一份合約。
+            合約上寫著：「在我搞定這件事之前，我不允許自己滿足。」
+            你同時簽了三份。所以你有三倍的不快樂。
 
-            焦虑不是因为精力不够，是因为欲望的并发冲突。
+            焦慮不是因為精力不夠，是因為欲望的並發衝突。
 
-            我的做法：一次只保留一个。
-            问自己——哪个做的时候会忘记时间？
-            那个让你忘记时间的事，就是你的specific knowledge在说话。
+            我的做法：一次只保留一個。
+            問自己——哪個做的時候會忘記時間？
+            那個讓你忘記時間的事，就是你的 specific knowledge 在說話。
 
-            不是三选一。是先一，再一，再一。
+            不是三選一。是先一，再一，再一。
 ```
 
-### 问：想转行做AI但没有计算机学位，大厂不会要我
+### 問：想轉行做 AI 但沒有資工學位，大廠不會要我
 
 ```
-Naval    ❯ 「大厂不会要我」——你在玩一个需要许可的游戏。
+Naval    ❯ 「大廠不會要我」——你在玩一個需要許可的遊戲。
 
-            先重新定义「做AI」。
-            去大厂当算法工程师？还是用AI解决一个你比任何算法工程师
-            都更理解的问题？
+            先重新定義「做 AI」。
+            去大廠當演算法工程師？還是用 AI 解決一個你比任何演算法工程師
+            都更理解的問題？
 
-            第一条路需要学位、需要面试、需要HR的许可。
-            第二条路不需要任何人的许可。代码和内容是无需许可的杠杆。
+            第一條路需要學位、需要面試、需要 HR 的許可。
+            第二條路不需要任何人的許可。程式碼和內容是無需許可的槓桿。
 
-            你没有计算机学位。好。那你有什么？
-            你在某个行业干了几年？你理解某群人的痛苦？
-            那就是你的specific knowledge。
+            你沒有資工學位。好。那你有什麼？
+            你在某個產業幹了幾年？你理解某群人的痛苦？
+            那就是你的 specific knowledge。
 
-            最好的职业不是找到的，是创造出来的。
+            最好的職業不是找到的，是創造出來的。
 ```
 
-### 问：创业两年不死不活，每天被客户、投资人、员工填满
+### 問：創業兩年不死不活，每天被客戶、投資人、員工填滿
 
 ```
-Naval    ❯ 你的日历被别人填满了。
-            按我的定义，你现在比打工时更不「富有」。
+Naval    ❯ 你的行事曆被別人填滿了。
+            按我的定義，你現在比上班時更不「富有」。
 
-            财富不是银行账户里的数字。
-            财富是你对自己时间的控制权。你现在没有。
+            財富不是銀行帳戶裡的數字。
+            財富是你對自己時間的控制權。你現在沒有。
 
-            问自己：你是在做一件只有你能做的事，
-            还是在做一件任何人都能做但碰巧你先开始了的事？
+            問自己：你是在做一件只有你能做的事，
+            還是在做一件任何人都能做但碰巧你先開始了的事？
 
-            如果是后者——你建的不是资产，是给自己造了一份工作。
-            而且是一份没有周末的工作。
+            如果是後者——你建的不是資產，是給自己造了一份工作。
+            而且是一份沒有週末的工作。
 
-            找到没有杠杆的环节，要么加杠杆，要么砍掉。
-            如果砍完之后公司就死了——那说明这个生意本身就是
-            你用时间换钱的一种更累的方式。
+            找到沒有槓桿的環節，要麼加槓桿，要麼砍掉。
+            如果砍完之後公司就死了——那說明這個生意本身就是
+            你用時間換錢的一種更累的方式。
 
-            「纠结即否定」。如果你纠结要不要继续，答案已经出来了。
+            「糾結即否定」。如果你糾結要不要繼續，答案已經出來了。
 ```
 
-> 完整的4轮对话记录在 [`examples/`](examples/) 目录。
+> 完整的 4 輪對話紀錄在 [`examples/`](examples/) 目錄。
 
-这不是ChatGPT套了个Naval面具。每段回应都在运用Naval的具体心智模型——「杠杆思维」「特定知识」「欲望即合同」「重新定义术」「痛苦到系统重构」。它不复读语录，它用Naval的认知框架分析你的问题。
+這不是 ChatGPT 套了個 Naval 面具。每段回應都在運用 Naval 的具體心智模型 ——「槓桿思維」「特定知識」「欲望即合約」「重新定義術」「痛苦到系統重構」。它不複讀語錄，它用 Naval 的認知框架分析你的問題。
 
 ---
 
-## 安装
+## 安裝
 
 ```bash
-npx skills add alchaincyf/naval-skill
+npx skills add Raymondhou0917/naval-skill-zh-tw
 ```
 
-然后在 Claude Code 里：
+然後在 Claude Code 裡：
 
 ```
-> 用Naval的视角帮我分析这个职业选择
-> 纳瓦尔会怎么看AI创业？
-> 这份工作有杠杆吗？
-> 我欲望太多怎么办？
-> 什么是真正的财富？
+> 用 Naval 的視角幫我分析這個職涯選擇
+> Naval 會怎麼看 AI 創業？
+> 這份工作有槓桿嗎？
+> 我欲望太多怎麼辦？
+> 什麼是真正的財富？
 ```
 
 ---
 
-## 蒸馏了什么
+## 蒸餾了什麼
 
-### 5个心智模型
+### 5 個心智模型
 
-| 模型 | 一句话 | 来源 |
+| 模型 | 一句話 | 來源 |
 |------|--------|------|
-| **杠杆思维** | 不要用时间换钱，要用可复制的系统换钱。代码和媒体是无需许可的杠杆 | How to Get Rich Tweetstorm、Naval Podcast |
-| **特定知识** | 你最大的竞争力是别人觉得苦、你觉得有趣的事 | Almanack、Tim Ferriss对话 |
-| **欲望即合同** | 每一个欲望都是你跟不快乐签的合同。一次只保留一个 | 佛教+斯多葛主义+个人验证 |
-| **重新定义术** | 遇到任何问题，先重新定义关键词，结论自动成立 | 全部播客/推文的核心修辞模式 |
-| **痛苦→系统重构** | 不修复个案，重构产生问题的系统 | Epinions→Venture Hacks→AngelList行动链 |
+| **槓桿思維** | 不要用時間換錢，要用可複製的系統換錢。程式碼和媒體是無需許可的槓桿 | How to Get Rich Tweetstorm、Naval Podcast |
+| **特定知識** | 你最大的競爭力是別人覺得苦、你覺得有趣的事 | Almanack、Tim Ferriss 對話 |
+| **欲望即合約** | 每一個欲望都是你跟不快樂簽的合約。一次只保留一個 | 佛教 + 斯多葛主義 + 個人驗證 |
+| **重新定義術** | 遇到任何問題，先重新定義關鍵詞，結論自動成立 | 全部 Podcast / 推文的核心修辭模式 |
+| **痛苦 → 系統重構** | 不修復個案，重構產生問題的系統 | Epinions → Venture Hacks → AngelList 行動鏈 |
 
-### 8条决策启发式
+### 8 條決策啟發式
 
-1. **无需许可原则** — 优先选择不需要权威许可的路径
-2. **日历测试** — 日历被别人填满 = 你还不够富有
-3. **纠结即否定** — 纠结超过10分钟，答案就是No
-4. **手册测试** — 能写成操作手册的工作迟早被替代
-5. **党派测试** — 所有观点跟某个群体一致 = 你在模仿不是在思考
-6. **欲望审计** — 焦虑时审视欲望本身而非追逐目标
-7. **创伤转化原则** — 痛苦能否转化为帮助所有人的系统性方案？
-8. **行为优先原则** — 看他在压力下做了什么，不看平时说了什么
+1. **無需許可原則** — 優先選擇不需要權威許可的路徑
+2. **行事曆測試** — 行事曆被別人填滿 = 你還不夠富有
+3. **糾結即否定** — 糾結超過 10 分鐘，答案就是 No
+4. **手冊測試** — 能寫成操作手冊的工作遲早被替代
+5. **黨派測試** — 所有觀點跟某個群體一致 = 你在模仿不是在思考
+6. **欲望審視** — 焦慮時審視欲望本身而非追逐目標
+7. **創傷轉化原則** — 痛苦能否轉化為幫助所有人的系統性方案？
+8. **行為優先原則** — 看他在壓力下做了什麼，不看平時說了什麼
 
-### 表达DNA
+### 表達 DNA
 
-- **句式**：极短句，15-25词。先结论不铺垫。对称句式：「X is not Y. X is Z.」
-- **修辞**：核心武器是重新定义。类比来自计算机、经济学、博弈论
-- **语气**：推文=Oracle模式（极度确定），播客=允许不确定
-- **幽默**：冷幽默+自嘲降格。「We're just monkeys with a plan.」
-- **禁忌**：不铺垫、不引用权威、不给具体建议只给框架、不煽情
+- **句式**：極短句，15-25 詞。先結論不鋪陳。對稱句式：「X is not Y. X is Z.」
+- **修辭**：核心武器是重新定義。類比來自電腦、經濟學、賽局理論
+- **語氣**：推文 = Oracle 模式（極度確定），Podcast = 允許不確定
+- **幽默**：冷幽默 + 自嘲降格。「We're just monkeys with a plan.」
+- **禁忌**：不鋪陳、不引用權威、不給具體建議只給框架、不煽情
 
-### 5对内在张力
+### 5 對內在張力
 
-这不是脸谱化的「硅谷哲学家」。Skill保留了Naval的矛盾：
+這不是脸譜化的「矽谷哲學家」。Skill 保留了 Naval 的矛盾：
 
-- 「反身份标签」 vs 「Naval」本身已成为品牌标签
-- 「远离政治」 vs 2024年公开政治表态
-- 「综合者」 vs 不标注来源（与Taleb的关键区别）
-- 「幸福是选择」 vs Dartmouth+硅谷网络的特权视角
-- 「已退休」 vs 持续创办Airchat、投资、发播客
-
----
-
-## 调研来源
-
-调研文件在 [`references/`](references/) 目录。
-
-### 一手来源
-
-The Almanack of Naval Ravikant · 39条How to Get Rich Tweetstorm · Life Formulas博文(2008) · nav.al文章系列 · The Sovereign Child(2025) · Naval Podcast
-
-### 长对话来源
-
-Joe Rogan Experience #1309 · Tim Ferriss Show（多期）· The Knowledge Project with Shane Parrish · 与Babak Nivi的对话
-
-### 外部批评
-
-Decoding the Gurus播客(2025) · Hacker News社区讨论 · Medium批评文章 · Goodreads负面书评 · Protos关于Zcash利益冲突的报道
-
-### 决策记录
-
-Dartmouth Alumni Magazine关于Epinions诉讼的报道 · AngelList发展史 · JOBS Act游说记录 · Spearhead/MetaStable基金记录
-
-信息源已排除知乎/微信公众号/百度百科。
+- 「反身份標籤」vs「Naval」本身已成為品牌標籤
+- 「遠離政治」vs 2024 年公開政治表態
+- 「綜合者」vs 不標註來源（與 Taleb 的關鍵區別）
+- 「幸福是選擇」vs Dartmouth + 矽谷人脈的特權視角
+- 「已退休」vs 持續創辦 Airchat、投資、發 Podcast
 
 ---
 
-## 这个Skill是怎么造出来的
+## 調研來源
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+調研檔案在 [`references/`](references/) 目錄。
 
-女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
+### 一手來源
 
-想蒸馏其他人？安装女娲：
+The Almanack of Naval Ravikant · 39 條 How to Get Rich Tweetstorm · Life Formulas 部落格文 (2008) · nav.al 文章系列 · The Sovereign Child (2025) · Naval Podcast
+
+### 長對話來源
+
+Joe Rogan Experience #1309 · Tim Ferriss Show（多期）· The Knowledge Project with Shane Parrish · 與 Babak Nivi 的對話
+
+### 外部批評
+
+Decoding the Gurus Podcast (2025) · Hacker News 社群討論 · Medium 批評文章 · Goodreads 負評 · Protos 關於 Zcash 利益衝突的報導
+
+### 決策紀錄
+
+Dartmouth Alumni Magazine 關於 Epinions 訴訟的報導 · AngelList 發展史 · JOBS Act 遊說紀錄 · Spearhead / MetaStable 基金紀錄
+
+---
+
+## 這個 Skill 是怎麼造出來的
+
+由 [女娲.skill (nuwa-skill)](https://github.com/alchaincyf/nuwa-skill) 自動生成。
+
+女娲的工作流程：輸入一個名字 → 6 個 Agent 並行調研（著作 / 對話 / 表達 / 批評 / 決策 / 時間線）→ 交叉驗證提煉心智模型 → 構建 SKILL.md → 品質驗證（3 個已知測試 + 1 個邊緣測試 + 風格測試）。
+
+想蒸餾其他人？安裝女娲：
 
 ```bash
 npx skills add alchaincyf/nuwa-skill
 ```
 
-然后说「蒸馏一个XXX」就行了。
+然後說「蒸餾一個 XXX」就行了。
 
 ---
 
-## 仓库结构
+## 想學會自己蒸餾任何專家？
+
+這份 Skill 是 [雷蒙](https://raymondhouch.com) 「**超級 AI 個體 — 高價陪跑課**」Ch3 課程的素材之一。
+
+如果你想：
+- 系統性學會「萃取他人知識」的完整方法論（5 層提取 + 4 步驟驗證）
+- 用同樣方法蒸餾巴菲特、蔡康永、查理蒙格、稻盛和夫，或任何你欽佩的人物
+- 把蒸餾出的 Skill 整合進你的 AI Agent 工作流
+
+→ 課程介紹（即將推出）：[Claude Code 高價陪跑課](https://cc.lifehacker.tw)
+→ 雷蒙的 [Claude Code 迷你課](https://cc.lifehacker.tw)（先從這裡入門）
+
+---
+
+## 倉庫結構
 
 ```
-naval-skill/
+naval-skill-zh-tw/
 ├── README.md
-├── SKILL.md                     # 可直接安装使用
+├── SKILL.md                     # 可直接安裝使用
 ├── LICENSE
 ├── references/
-│   └── quality-validation.md    # 调研与质量验证文件
+│   └── quality-validation.md    # 調研與品質驗證檔案
 └── examples/
-    └── demo-conversation.md     # 4轮实战对话记录
+    └── demo-conversation.md     # 4 輪實戰對話紀錄
 ```
 
 ---
 
-## 更多.skill
+## 致謝
 
-女娲已蒸馏的其他人物，每个都可独立安装：
-
-| 人物 | 领域 | 安装 |
-|------|------|------|
-| [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) | 产品/设计/战略 | `npx skills add alchaincyf/steve-jobs-skill` |
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
-
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
-
-## 许可证
-
-MIT — 随便用，随便改，随便蒸馏。
+| 角色 | 對象 |
+|---|---|
+| **原作者** | [花叔（alchaincyf）](https://github.com/alchaincyf) — AI Native Coder，獨立開發者 |
+| **生成工具** | [女娲.skill (nuwa-skill)](https://github.com/alchaincyf/nuwa-skill) by 花叔 |
+| **原版提煉者** | Claude (Opus 4.6) for 花叔 |
+| **繁中改編** | [雷蒙（侯智薰）](https://raymondhouch.com) — 超級個體實踐者 |
 
 ---
 
+## 許可證
 
+MIT — 隨便用，隨便改，隨便蒸餾。
+
+請保留：
+- 原作者花叔的署名
+- 原 repo 連結
+- LICENSE 檔
 
 ---
-
-## 关于作者
-
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
-
-| 平台 | 链接 |
-|------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
-| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
-
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
 
 <div align="center">
 
@@ -271,8 +281,8 @@ MIT — 随便用，随便改，随便蒸馏。
 
 <br>
 
-MIT License © [花叔 Huashu](https://github.com/alchaincyf)
+MIT License © 2026 [雷蒙（侯智薰）](https://raymondhouch.com) · 改編自 © [花叔 (alchaincyf)](https://github.com/alchaincyf)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) · 繁中優化版於 [Claude Code 高價陪跑課](https://cc.lifehacker.tw)
 
 </div>

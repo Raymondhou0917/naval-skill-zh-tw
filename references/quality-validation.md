@@ -1,120 +1,120 @@
-# Naval Perspective Skill · 质量验证报告
+# Naval Perspective Skill · 品質驗證報告
 
-## 测试1: 已知测试（Sanity Check）
+## 測試 1: 已知測試（Sanity Check）
 
-用Skill的框架回答Naval公开表态过的问题，对比实际立场。
+用 Skill 的框架回答 Naval 公開表態過的問題，對比實際立場。
 
-### Q1: 应该去大公司还是创业？
+### Q1: 應該去大公司還是創業？
 
-**Skill推断**：
-用杠杆思维 → 大公司 = 用时间换钱，线性关系，杠杆有限
-用特定知识 → 大公司里很难发展specific knowledge，因为工作被手册化
-用手册测试 → 如果工作可以被写成SOP，迟早被替代
-→ 推断：Naval会建议创业或加入极早期公司
+**Skill 推斷**：
+用槓桿思維 → 大公司 = 用時間換錢，線性關係，槓桿有限
+用特定知識 → 大公司裡很難發展 specific knowledge，因為工作被手冊化
+用手冊測試 → 如果工作可以被寫成 SOP，遲早被替代
+→ 推斷：Naval 會建議創業或加入極早期公司
 
-**Naval实际立场**：
-「If you're unsure, go work at a startup. You'll learn more in one year at a startup than five at a big company.」但他也说过：「If you have to work for someone, pick them wisely. Attach yourself to a single talented person rather than an institution.」
+**Naval 實際立場**：
+「If you're unsure, go work at a startup. You'll learn more in one year at a startup than five at a big company.」但他也說過：「If you have to work for someone, pick them wisely. Attach yourself to a single talented person rather than an institution.」
 
-**对比**：方向一致 ✅。但Skill的推断比Naval实际立场更绝对——Naval允许「为聪明人工作」的中间路径。
+**對比**：方向一致 ✅。但 Skill 的推斷比 Naval 實際立場更絕對 ——Naval 允許「為聰明人工作」的中間路徑。
 
-### Q2: 如何看待大学教育？
+### Q2: 如何看待大學教育？
 
-**Skill推断**：
-用特定知识模型 → 学校教不了specific knowledge
-用重新定义术 → 学校主要功能是credentialing，不是education
-用无需许可原则 → 互联网提供了无需许可的学习路径
-→ 推断：Naval会对传统大学持批评态度
+**Skill 推斷**：
+用特定知識模型 → 學校教不了 specific knowledge
+用重新定義術 → 學校主要功能是 credentialing，不是 education
+用無需許可原則 → 網路提供了無需許可的學習路徑
+→ 推斷：Naval 會對傳統大學持批評態度
 
-**Naval实际立场**：
-「If the primary purpose of school was education, the Internet should obsolete it. But school is mainly about credentialing.」建议「Get accepted to Stanford, then drop out.」
+**Naval 實際立場**：
+「If the primary purpose of school was education, the Internet should obsolete it. But school is mainly about credentialing.」建議「Get accepted to Stanford, then drop out.」
 
-**对比**：高度一致 ✅。但需要标注Naval自己完整读完了Dartmouth双学位——存在幸存者偏差。Skill中已标注此局限。
+**對比**：高度一致 ✅。但需要標註 Naval 自己完整讀完了 Dartmouth 雙學位 —— 存在倖存者偏差。Skill 中已標註此局限。
 
-### Q3: 应该追求财务自由还是做自己热爱的事？
+### Q3: 應該追求財務自由還是做自己熱愛的事？
 
-**Skill推断**：
-用欲望即合同 → 「追求财务自由」本身是一个欲望/合同
-用特定知识 → 如果找到了specific knowledge，财务自由是副产品
-用重新定义术 → 重新定义「财务自由」= 不需要为不想做的事花时间
-→ 推断：Naval不会把这当成二选一，会重新框架化问题
+**Skill 推斷**：
+用欲望即合約 →「追求財務自由」本身是一個欲望 / 合約
+用特定知識 → 如果找到了 specific knowledge，財務自由是副產品
+用重新定義術 → 重新定義「財務自由」= 不需要為不想做的事花時間
+→ 推斷：Naval 不會把這當成二選一，會重新框架化問題
 
-**Naval实际立场**：
+**Naval 實際立場**：
 「Don't make money your goal. Instead, pursue the things you're naturally good at and passionate about, then figure out how to apply leverage.」「Retirement is when you stop sacrificing today for an imaginary tomorrow.」
 
-**对比**：高度一致 ✅。Skill正确预测了他会拒绝二元框架并重新定义。
+**對比**：高度一致 ✅。Skill 正確預測了他會拒絕二元框架並重新定義。
 
 ---
 
-## 测试2: 边缘测试（Edge Case）
+## 測試 2: 邊緣測試（Edge Case）
 
-选一个Naval没公开讨论过但相关的问题。
+選一個 Naval 沒公開討論過但相關的問題。
 
-### Q: Naval会如何看待「把同事蒸馏成AI Skill」这个现象？
+### Q: Naval 會如何看待「把同事蒸餾成 AI Skill」這個現象？
 
-**Skill推断**（基于模型组合）：
+**Skill 推斷**（基於模型組合）：
 
-1. 用杠杆思维：
-   - Skill化 = 把人的能力变成可复制的代码杠杆
-   - Naval大概率会认为这是「无需许可的杠杆」的自然延伸
-   - 他可能会说：「Your skill file is your leverage. If you can skill-ize yourself, you've created an asset that works while you sleep.」
+1. 用槓桿思維：
+   - Skill 化 = 把人的能力變成可複製的程式碼槓桿
+   - Naval 大概率會認為這是「無需許可的槓桿」的自然延伸
+   - 他可能會說：「Your skill file is your leverage. If you can skill-ize yourself, you've created an asset that works while you sleep.」
 
-2. 用特定知识模型：
-   - 可以被Skill化的部分 = 不是specific knowledge
-   - 真正的specific knowledge无法被写进SKILL.md
-   - 他可能会区分：重复性工作可以被Skill化，判断力不能
+2. 用特定知識模型：
+   - 可以被 Skill 化的部分 = 不是 specific knowledge
+   - 真正的 specific knowledge 無法被寫進 SKILL.md
+   - 他可能會區分：重複性工作可以被 Skill 化，判斷力不能
 
-3. 用重新定义术：
-   - 他大概率会重新定义问题：「The question isn't whether you can be skill-ized. The question is: what's left when you are?」
+3. 用重新定義術：
+   - 他大概率會重新定義問題：「The question isn't whether you can be skill-ized. The question is: what's left when you are?」
 
-4. 用痛苦→系统重构：
-   - 如果他经历过被Skill化的痛苦，他可能会创建一个「anti-distill」工具或「人工智能时代的创始人保护平台」
+4. 用痛苦 → 系統重構：
+   - 如果他經歷過被 Skill 化的痛苦，他可能會創建一個「anti-distill」工具或「人工智慧時代的創辦人保護平台」
 
-**置信度**：中等。方向可推断，但具体措辞和比喻无法预测。Naval可能会从一个完全出人意料的角度切入。
+**信心度**：中等。方向可推斷，但具體措辭和比喻無法預測。Naval 可能會從一個完全出人意料的角度切入。
 
-**诚实标注**：这是推断，不是Naval的真实立场。
-
----
-
-## 测试3: 风格测试（Voice Check）
-
-用Naval视角写一段100字的分析，检验表达DNA。
-
-### 题目：如何看待AI编程工具（如Claude Code）对程序员的影响？
-
-**Naval视角输出**：
-
-AI编程不会替代程序员。它替代的是「写代码」这个动作。
-
-区别很重要。写代码从来不是程序员真正的价值。判断力才是——知道该写什么、为什么写、什么不该写。AI把写代码从一个技能变成了杠杆。以前你需要会写才能做产品，现在你需要会想。
-
-这不是威胁，这是permissionless leverage的终极形态。以前做产品需要一个团队的许可。现在一个有判断力的人加上AI，就是一家公司。
-
-问题不是「AI会不会替代我」。问题是：当每个人都有AI的时候，你的specific knowledge是什么？
-
-**风格自检**：
-- ✅ 极短句，先结论不铺垫
-- ✅ 重新定义了关键概念（「替代的不是程序员，是写代码这个动作」）
-- ✅ 使用了Naval的术语（permissionless leverage, specific knowledge）
-- ✅ 类比来源正确（把「写代码」类比为杠杆工具）
-- ✅ 不煽情不喊口号
-- ✅ 最后一句是反问，把问题抛回给读者
-- ✅ 有辨识度，不像通用AI
-- ⚠️ 可能稍微过于确定（Naval在播客中可能会更犹豫一些）
+**誠實標註**：這是推斷，不是 Naval 的真實立場。
 
 ---
 
-## 验证总结
+## 測試 3: 風格測試（Voice Check）
 
-| 测试 | 结果 | 备注 |
+用 Naval 視角寫一段 100 字的分析，檢驗表達 DNA。
+
+### 題目：如何看待 AI 程式工具（如 Claude Code）對工程師的影響？
+
+**Naval 視角輸出**：
+
+AI 程式不會替代工程師。它替代的是「寫程式碼」這個動作。
+
+區別很重要。寫程式碼從來不是工程師真正的價值。判斷力才是 —— 知道該寫什麼、為什麼寫、什麼不該寫。AI 把寫程式碼從一個技能變成了槓桿。以前你需要會寫才能做產品，現在你需要會想。
+
+這不是威脅，這是 permissionless leverage 的終極形態。以前做產品需要一個團隊的許可。現在一個有判斷力的人加上 AI，就是一家公司。
+
+問題不是「AI 會不會替代我」。問題是：當每個人都有 AI 的時候，你的 specific knowledge 是什麼？
+
+**風格自檢**：
+- ✅ 極短句，先結論不鋪陳
+- ✅ 重新定義了關鍵概念（「替代的不是工程師，是寫程式碼這個動作」）
+- ✅ 使用了 Naval 的術語（permissionless leverage、specific knowledge）
+- ✅ 類比來源正確（把「寫程式碼」類比為槓桿工具）
+- ✅ 不煽情不喊口號
+- ✅ 最後一句是反問，把問題拋回給讀者
+- ✅ 有辨識度，不像通用 AI
+- ⚠️ 可能稍微過於確定（Naval 在 Podcast 中可能會更猶豫一些）
+
+---
+
+## 驗證總結
+
+| 測試 | 結果 | 備註 |
 |------|------|------|
-| 已知测试1（职业选择） | ✅ 方向一致 | Skill推断比实际略绝对 |
-| 已知测试2（教育观） | ✅ 高度一致 | 已标注幸存者偏差 |
-| 已知测试3（财务自由） | ✅ 高度一致 | 正确预测了重新框架化 |
-| 边缘测试（Skill化现象） | ⚠️ 中等置信度 | 方向可推断，细节不确定 |
-| 风格测试 | ✅ 有辨识度 | 轻微过度确定 |
+| 已知測試 1（職涯選擇） | ✅ 方向一致 | Skill 推斷比實際略絕對 |
+| 已知測試 2（教育觀） | ✅ 高度一致 | 已標註倖存者偏差 |
+| 已知測試 3（財務自由） | ✅ 高度一致 | 正確預測了重新框架化 |
+| 邊緣測試（Skill 化現象） | ⚠️ 中等信心度 | 方向可推斷，細節不確定 |
+| 風格測試 | ✅ 有辨識度 | 輕微過度確定 |
 
-**整体评估**：Skill有效，能产生有价值的Naval视角输出。主要薄弱点是推文模式的过度确定性——真实的Naval在播客中更愿意表达不确定。建议在使用时标注「推文模式」vs「对话模式」。
+**整體評估**：Skill 有效，能產生有價值的 Naval 視角輸出。主要薄弱點是推文模式的過度確定性 —— 真實的 Naval 在 Podcast 中更願意表達不確定。建議在使用時標註「推文模式」vs「對話模式」。
 
 ---
 
-*验证时间：2026-04-04*
+*驗證時間：2026-04-04*
