@@ -29,7 +29,7 @@ Joe Rogan / Tim Ferriss / Shane Parrish 長對話、Decoding the Gurus 批評等
 
 原版由 [花叔（alchaincyf）](https://github.com/alchaincyf) 製作，是簡體中文版本，內含部分中國用語（「软件」「视频」「博弈论」）。
 
-[雷蒙](https://raymondhouch.com) 在「**超級 AI 個體 — 高價陪跑課**」設計過程中，將其改編為**繁體中文台灣版**：
+[雷蒙](https://raymondhouch.com) 在「**AI Agent x 超級個體進階陪跑課**」設計過程中，將其改編為**繁體中文台灣版**：
 
 - 簡體 → 繁體
 - 中國用詞 → 台灣慣用詞（軟體 / 程式 / 共同創辦人 / 行事曆 / 賽局理論 / 部落格 / 否證主義）
@@ -226,15 +226,43 @@ npx skills add alchaincyf/nuwa-skill
 
 ## 想學會自己蒸餾任何專家？
 
-這份 Skill 是 [雷蒙](https://raymondhouch.com) 「**超級 AI 個體 — 高價陪跑課**」Ch3 課程的素材之一。
+這份 Skill 是 [雷蒙](https://raymondhouch.com) 「**AI Agent x 超級個體進階陪跑課**」Ch3 課程的素材之一。
 
-如果你想：
-- 系統性學會「萃取他人知識」的完整方法論（5 層提取 + 4 步驟驗證）
-- 用同樣方法蒸餾巴菲特、蔡康永、查理蒙格、稻盛和夫，或任何你欽佩的人物
-- 把蒸餾出的 Skill 整合進你的 AI Agent 工作流
+### 立刻能開始的三條路
 
-→ 課程介紹（即將推出）：[Claude Code 高價陪跑課](https://cc.lifehacker.tw)
-→ 雷蒙的 [Claude Code 迷你課](https://cc.lifehacker.tw)（先從這裡入門）
+**1. 雷蒙的 Claude Code 迷你課**（已上線，立刻能買）
+
+如果你還沒摸過 Claude Code、想先建立基礎，從這條入門最快：
+
+→ **[雷蒙的 Claude Code 24hr 迷你課（點此購買）](https://lifehacker.tw/courses/24hr-claude-code-tutorial)**
+
+迷你課裡完整教 AI Agent 怎麼安裝、怎麼配置、怎麼用 Skill 體系——學完之後你回來用這份 Naval Skill 會更有感。
+
+**2. 雷蒙週報**（免費訂閱，每週深度思考）
+
+雷蒙每週寫一份 AI Agent + 超級個體實踐的深度週報，提前知道課程動態、新工具評測、實戰案例：
+
+→ **[訂閱雷蒙週報](https://raymondhouch.com/subscribe)**
+
+**3. AI Agent x 超級個體進階陪跑課**（2026 年 8 月上線）
+
+這份 Naval Skill 改編版只是 Ch3 課程的素材之一。完整進階課內容包含：
+
+- Ch1-Ch2 AI Agent 認知建立與「讓 AI 學會你」的方法論
+- **Ch3 系統性學會「萃取他人知識」完整方法論**（5 層提取 + 4 步驟驗證）—— 自己蒸餾巴菲特、蔡康永、查理蒙格、稻盛和夫，或任何你欽佩的人物
+- Ch4 把工作交給 AI 的情境實戰
+- Ch5 用 Vibe Coding 做出能上線收錢的網站
+- Ch6 一人公司時代的超級個體系統
+
+→ **[進階課介紹 + 加入 waitlist](https://cc.lifehacker.tw)**
+
+### 雷蒙的社群
+
+| 平台 | 連結 |
+|---|---|
+| Threads | [@raymond0917](https://www.threads.com/@raymond0917) |
+| Facebook | [雷蒙三十 / Raymond Hou](https://www.facebook.com/raymondhou0917) |
+| 官網 | [raymondhouch.com](https://raymondhouch.com) |
 
 ---
 
@@ -283,6 +311,6 @@ MIT — 隨便用，隨便改，隨便蒸餾。
 
 MIT License © 2026 [雷蒙（侯智薰）](https://raymondhouch.com) · 改編自 © [花叔 (alchaincyf)](https://github.com/alchaincyf)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) · 繁中優化版於 [Claude Code 高價陪跑課](https://cc.lifehacker.tw)
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) · 繁中優化版於 [AI Agent x 超級個體進階陪跑課](https://cc.lifehacker.tw)
 
 </div>
