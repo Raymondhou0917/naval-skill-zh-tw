@@ -1,13 +1,20 @@
 <div align="center">
 
-# Naval.skill · 繁體中文台灣版
+# Naval · 思考與決策.skill · 繁體中文台灣版
 
-> *"Seek wealth, not money or status. Wealth is having assets that earn while you sleep."*
+<img src="assets/naval.webp" alt="Naval Ravikant" width="160" height="160" />
+
+<br>
+
+> *「追求財富，而不是金錢或地位。財富是擁有在你睡覺時替你賺錢的資產。」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Codex](https://img.shields.io/badge/Codex-Skill-blue)](https://openai.com)
 [![Adapted by 雷蒙](https://img.shields.io/badge/繁中改編-雷蒙三十-orange)](https://raymondhouch.com)
 [![Original](https://img.shields.io/badge/Forked%20from-alchaincyf%2Fnaval--skill-blue)](https://github.com/alchaincyf/naval-skill)
+
+照片來源：[Forbes／Laura Shin 報導專訪](https://www.forbes.com/sites/laurashin/2017/11/28/naval-ravikant-on-how-crypto-is-squeezing-vcs-hindering-regulators-and-bringing-users-choice/)（肖像權屬原權利人；本專案僅供識別）
 
 <br>
 
@@ -15,28 +22,51 @@
 
 <br>
 
-基於 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、<br>
-Joe Rogan / Tim Ferriss / Shane Parrish 長對話、Decoding the Gurus 批評等 30+ 一手來源深度調研，<br>
-提煉 5 個核心心智模型、8 條決策啟發式和完整的表達 DNA。
+基於 The Almanack of Naval Ravikant、How to Get Rich Tweetstorm、  
+Joe Rogan / Tim Ferriss / Shane Parrish 長對話、Decoding the Gurus 批評等 30+ 一手來源深度調研，  
+提煉 **5 個核心心智模型**、**8 條決策啟發式**和完整的**表達 DNA**。
 
-[看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [調研來源](#調研來源) · [想學會自己蒸餾](#想學會自己蒸餾任何專家)
+[看效果](#效果示例) · [安裝](#安裝) · [蒸餾了什麼](#蒸餾了什麼) · [這個 skill 是怎麼長出來的](#這個-skill-是怎麼長出來的) · [調研來源](#調研來源)
 
 </div>
 
 ---
 
-## 為什麼有繁中台灣版？
+## 這個 skill 是怎麼長出來的
 
-原版由 [花叔（alchaincyf）](https://github.com/alchaincyf) 製作，是簡體中文版本，內含部分中國用語（「软件」「视频」「博弈论」）。
+> 好的專家 skill，不該只是「模仿某人口氣說話」。  
+> 它要回答的是：當你面臨職涯、欲望或資源配置的抉擇時，如何用第一原理幫你拆解問題。
 
-[雷蒙](https://raymondhouch.com) 在「**AI Agent x 超級個體進階陪跑課**」設計過程中，將其改編為**繁體中文台灣版**：
+```
+你      ❯ 我想做一個「像 Naval 那樣思考」的 AI。
+            是不是把他的推文金句丟進去就好？
 
-- 簡體 → 繁體
-- 中國用詞 → 台灣慣用詞（軟體 / 程式 / 共同創辦人 / 行事曆 / 賽局理論 / 部落格 / 否證主義）
-- 保留 Naval 英文金句原貌
-- 心智模型、修辭結構、調研來源**完全保留**
+研究     ❯ 那通常會變成 cosplay。
 
-授權維持 MIT，可繼續 fork、改、用。
+            更有用的做法是：從《納瓦爾寶典》、推特長串、
+            以及 30+ 篇深度播客對話與外部批評出發，
+            問三個問題——
+
+            1. 他反覆在用什麼心智模型做決策？
+            2. 哪些認知框架能拆成一般人可應用的啟發式？
+            3. 拿掉「矽谷投資人」身分後，這套思維系統還有沒有用？
+
+            過得了第三題的，才進這個 skill。
+```
+
+故事分三步：
+
+**第一步 — 先解構心智模型，不要只追金句語氣。**  
+從一手著作與推特中，萃取出「槓桿思維」「特定知識」「欲望即合約」等第一原理，建立底層邏輯。
+
+**第二步 — 提煉決策啟發式與內在張力。**  
+加入真實世界的邊界條件與張力（例如行事曆測試、糾結即否定、無需許可原則），讓 AI 不是盲目樂觀，而是能給出鋒利判斷。
+
+**第三步 — 在地化繁體中文與台灣慣用情境。**  
+將中國用語全面轉換為台灣慣用詞（軟體 / 程式 / 共同創辦人 / 行事曆 / 賽局理論 / 部落格 / 否證主義），同時完整保留 Naval 英文金句原貌。
+
+> 一句話總結：這個 skill 不是「假裝某人開口」，  
+> 是「把第一原理與槓桿思考，做成隨時能為你拆解難題的決策顧問」。
 
 ---
 
@@ -58,6 +88,8 @@ Naval    ❯ 先定義一下「更高薪水」意味著什麼。
 
             不要換一份薪水更高的工作。
             找到一件別人覺得苦、你覺得有趣的事，然後讓程式碼或內容替你工作。
+
+            Naval 拆解了什麼：辨識線性收入陷阱，導向無需許可的槓桿與特定知識。
 ```
 
 ### 問：同時在學程式、做自媒體、準備考研，什麼都做不好怎麼辦？
@@ -76,6 +108,8 @@ Naval    ❯ 你剛才說了三個欲望。
             那個讓你忘記時間的事，就是你的 specific knowledge 在說話。
 
             不是三選一。是先一，再一，再一。
+
+            Naval 拆解了什麼：欲望即合約，砍掉並發欲望，聚焦單一順序。
 ```
 
 ### 問：想轉行做 AI 但沒有資工學位，大廠不會要我
@@ -95,6 +129,8 @@ Naval    ❯ 「大廠不會要我」——你在玩一個需要許可的遊戲�
             那就是你的 specific knowledge。
 
             最好的職業不是找到的，是創造出來的。
+
+            Naval 拆解了什麼：打破許可型遊戲，轉用特定知識＋無需許可槓桿創造價值。
 ```
 
 ### 問：創業兩年不死不活，每天被客戶、投資人、員工填滿
@@ -117,11 +153,11 @@ Naval    ❯ 你的行事曆被別人填滿了。
             你用時間換錢的一種更累的方式。
 
             「糾結即否定」。如果你糾結要不要繼續，答案已經出來了。
+
+            Naval 拆解了什麼：以時間控制權定義財富，運用糾結即否定做系統性取捨。
 ```
 
-> 完整的 4 輪對話紀錄在 [`examples/`](examples/) 目錄。
-
-這不是 ChatGPT 套了個 Naval 面具。每段回應都在運用 Naval 的具體心智模型 ——「槓桿思維」「特定知識」「欲望即合約」「重新定義術」「痛苦到系統重構」。它不複讀語錄，它用 Naval 的認知框架分析你的問題。
+> 更多測試情境見 [`examples/demo-conversation.md`](examples/demo-conversation.md)。
 
 ---
 
@@ -131,14 +167,16 @@ Naval    ❯ 你的行事曆被別人填滿了。
 npx skills add Raymondhou0917/naval-skill-zh-tw
 ```
 
-然後在 Claude Code 裡：
+或把整個資料夾放到你的 AI Agent skills 目錄，讓它讀 `SKILL.md`。
 
-```
-> 用 Naval 的視角幫我分析這個職涯選擇
-> Naval 會怎麼看 AI 創業？
-> 這份工作有槓桿嗎？
-> 我欲望太多怎麼辦？
-> 什麼是真正的財富？
+觸發示例：
+
+```text
+用 Naval 的視角幫我分析這個職涯選擇
+Naval 會怎麼看 AI 創業？
+這份工作有槓桿嗎？
+我欲望太多、每天焦慮怎麼辦？
+什麼是真正的財富？
 ```
 
 ---
@@ -148,7 +186,7 @@ npx skills add Raymondhou0917/naval-skill-zh-tw
 ### 5 個心智模型
 
 | 模型 | 一句話 | 來源 |
-|------|--------|------|
+| :--- | :--- | :--- |
 | **槓桿思維** | 不要用時間換錢，要用可複製的系統換錢。程式碼和媒體是無需許可的槓桿 | How to Get Rich Tweetstorm、Naval Podcast |
 | **特定知識** | 你最大的競爭力是別人覺得苦、你覺得有趣的事 | Almanack、Tim Ferriss 對話 |
 | **欲望即合約** | 每一個欲望都是你跟不快樂簽的合約。一次只保留一個 | 佛教 + 斯多葛主義 + 個人驗證 |
@@ -168,15 +206,17 @@ npx skills add Raymondhou0917/naval-skill-zh-tw
 
 ### 表達 DNA
 
-- **句式**：極短句，15-25 詞。先結論不鋪陳。對稱句式：「X is not Y. X is Z.」
-- **修辭**：核心武器是重新定義。類比來自電腦、經濟學、賽局理論
-- **語氣**：推文 = Oracle 模式（極度確定），Podcast = 允許不確定
-- **幽默**：冷幽默 + 自嘲降格。「We're just monkeys with a plan.」
-- **禁忌**：不鋪陳、不引用權威、不給具體建議只給框架、不煽情
+| 特徵 | 做法 |
+| :--- | :--- |
+| 短句好讀 | 極短句（15-25 詞），先結論不鋪陳。對稱句式：「X is not Y. X is Z.」 |
+| 重新定義 | 核心武器是重新定義名詞。類比多來自電腦、經濟學、賽局理論 |
+| 雙層語氣 | 推文 = Oracle 模式（極度確定），Podcast = 允許不確定與探索 |
+| 冷幽默 | 冷幽默 + 自嘲降格：「We're just monkeys with a plan.」 |
+| 硬禁忌 | 不鋪陳、不引用權威、不給具體瑣碎建議（只給框架）、不煽情 |
 
 ### 5 對內在張力
 
-這不是脸譜化的「矽谷哲學家」。Skill 保留了 Naval 的矛盾：
+這不是臉譜化的「矽谷哲學家」。Skill 保留了 Naval 的真實張力：
 
 - 「反身份標籤」vs「Naval」本身已成為品牌標籤
 - 「遠離政治」vs 2024 年公開政治表態
@@ -191,100 +231,44 @@ npx skills add Raymondhou0917/naval-skill-zh-tw
 調研檔案在 [`references/`](references/) 目錄。
 
 ### 一手來源
-
 The Almanack of Naval Ravikant · 39 條 How to Get Rich Tweetstorm · Life Formulas 部落格文 (2008) · nav.al 文章系列 · The Sovereign Child (2025) · Naval Podcast
 
 ### 長對話來源
-
 Joe Rogan Experience #1309 · Tim Ferriss Show（多期）· The Knowledge Project with Shane Parrish · 與 Babak Nivi 的對話
 
 ### 外部批評
-
 Decoding the Gurus Podcast (2025) · Hacker News 社群討論 · Medium 批評文章 · Goodreads 負評 · Protos 關於 Zcash 利益衝突的報導
 
 ### 決策紀錄
-
 Dartmouth Alumni Magazine 關於 Epinions 訴訟的報導 · AngelList 發展史 · JOBS Act 遊說紀錄 · Spearhead / MetaStable 基金紀錄
-
----
-
-## 這個 Skill 是怎麼造出來的
-
-由 [女娲.skill (nuwa-skill)](https://github.com/alchaincyf/nuwa-skill) 自動生成。
-
-女娲的工作流程：輸入一個名字 → 6 個 Agent 並行調研（著作 / 對話 / 表達 / 批評 / 決策 / 時間線）→ 交叉驗證提煉心智模型 → 構建 SKILL.md → 品質驗證（3 個已知測試 + 1 個邊緣測試 + 風格測試）。
-
-想蒸餾其他人？安裝女娲：
-
-```bash
-npx skills add alchaincyf/nuwa-skill
-```
-
-然後說「蒸餾一個 XXX」就行了。
-
----
-
-## 想學會自己蒸餾任何專家？
-
-這份 Skill 是 [雷蒙](https://raymondhouch.com) 「**AI Agent x 超級個體進階陪跑課**」Ch3 課程的素材之一。
-
-### 立刻能開始的三條路
-
-**1. 雷蒙的 Claude Code 迷你課**（已上線，立刻能買）
-
-如果你還沒摸過 Claude Code、想先建立基礎，從這條入門最快：
-
-→ **[雷蒙的 Claude Code 24hr 迷你課（點此購買）](https://lifehacker.tw/courses/24hr-claude-code-tutorial)**
-
-迷你課裡完整教 AI Agent 怎麼安裝、怎麼配置、怎麼用 Skill 體系——學完之後你回來用這份 Naval Skill 會更有感。
-
-**2. 雷蒙週報**（免費訂閱，每週深度思考）
-
-雷蒙每週寫一份 AI Agent + 超級個體實踐的深度週報，提前知道課程動態、新工具評測、實戰案例：
-
-→ **[訂閱雷蒙週報](https://raymondhouch.com/subscribe)**
-
-**3. AI Agent x 超級個體進階陪跑課**（2026 年 8 月上線）
-
-這份 Naval Skill 改編版只是 Ch3 課程的素材之一。完整進階課內容包含：
-
-- Ch1-Ch2 AI Agent 認知建立與「讓 AI 學會你」的方法論
-- **Ch3 系統性學會「萃取他人知識」完整方法論**（5 層提取 + 4 步驟驗證）—— 自己蒸餾巴菲特、蔡康永、查理蒙格、稻盛和夫，或任何你欽佩的人物
-- Ch4 把工作交給 AI 的情境實戰
-- Ch5 用 Vibe Coding 做出能上線收錢的網站
-- Ch6 一人公司時代的超級個體系統
-
-→ **[進階課介紹 + 加入 waitlist](https://cc.lifehacker.tw)**
-
-### 雷蒙的社群
-
-| 平台 | 連結 |
-|---|---|
-| Threads | [@raymond0917](https://www.threads.com/@raymond0917) |
-| Facebook | [雷蒙三十 / Raymond Hou](https://www.facebook.com/raymondhou0917) |
-| 官網 | [raymondhouch.com](https://raymondhouch.com) |
 
 ---
 
 ## 倉庫結構
 
-```
+```text
 naval-skill-zh-tw/
+├── SKILL.md                         # Skill 進入點（核心提示詞與決策系統）
 ├── README.md
-├── SKILL.md                     # 可直接安裝使用
-├── LICENSE
+├── LICENSE                          # MIT License
+├── THIRD_PARTY_NOTICES.md           # 姓名／訪談／第三方權利聲明
+├── assets/
+│   └── naval.webp                   # 媒體報導肖像照（來源見 README／NOTICES）
 ├── references/
-│   └── quality-validation.md    # 調研與品質驗證檔案
+│   ├── naval-ravikant-agent1-著作与系统思考.md
+│   ├── naval-agent2-conversations.md
+│   ├── naval-agent3-expression-dna.md
+│   └── quality-validation.md        # 調研與品質驗證檔案
 └── examples/
-    └── demo-conversation.md     # 4 輪實戰對話紀錄
+    └── demo-conversation.md         # 4 輪實戰對話紀錄
 ```
 
 ---
 
-## 致謝
+## 致謝與授權
 
 | 角色 | 對象 |
-|---|---|
+| :--- | :--- |
 | **原作者** | [花叔（alchaincyf）](https://github.com/alchaincyf) — AI Native Coder，獨立開發者 |
 | **生成工具** | [女娲.skill (nuwa-skill)](https://github.com/alchaincyf/nuwa-skill) by 花叔 |
 | **原版提煉者** | Claude (Opus 4.6) for 花叔 |
@@ -292,25 +276,24 @@ naval-skill-zh-tw/
 
 ---
 
-## 許可證
+## 獨立研究與授權聲明
 
-MIT — 隨便用，隨便改，隨便蒸餾。
+- 本專案未獲 Naval Ravikant 本人、AngelList 或任何權利人授權、合作或背書。
+- 「Naval Ravikant」姓名只用於說明研究靈感與繁中改編案例，不代表本人參與本 Skill。
+- MIT License 涵蓋自行撰寫之工作流、心智模型、範例與繁中改編說明文字。
+- 第三方姓名、肖像、書籍、訪談、節目及其內容不在 MIT 授權範圍內。
+- 請勿用本專案冒充本人、製造虛假代言，或宣稱輸出代表其真實意見。
 
-請保留：
-- 原作者花叔的署名
-- 原 repo 連結
-- LICENSE 檔
+完整說明見 [`THIRD_PARTY_NOTICES.md`](./THIRD_PARTY_NOTICES.md)。
 
 ---
 
 <div align="center">
 
-*True wealth is having assets that earn while you sleep. True freedom is a calendar you fill yourself.*
+*「True wealth is having assets that earn while you sleep. True freedom is a calendar you fill yourself.」*
 
 <br>
 
-MIT License © 2026 [雷蒙（侯智薰）](https://raymondhouch.com) · 改編自 © [花叔 (alchaincyf)](https://github.com/alchaincyf)
-
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill) · 繁中優化版於 [AI Agent x 超級個體進階陪跑課](https://cc.lifehacker.tw)
+MIT License © 2026 [雷蒙（侯智薰）](https://raymondhouch.com) · 改編自 © [花叔 (alchaincyf)](https://github.com/alchaincyf) · 繁中優化版收錄於 [AI 專家圖鑑](https://ai-experts.lifehacker.tw)
 
 </div>
